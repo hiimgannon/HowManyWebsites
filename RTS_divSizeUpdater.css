@@ -1,0 +1,86 @@
+#numbererOverlay.tweets-sent,
+#numbererOverlay.tweets-sent2, 
+
+#numbererOverlay.internet-users,
+#numbererOverlay.internet-users2 ,
+
+#numbererOverlay.internet-users-region,
+#numbererOverlay.internet-users-region2 ,
+
+#numbererOverlay.google-searches2,
+#numbererOverlay.google-searches,
+
+#numbererOverlay.em-sent2,
+#numbererOverlay.em-sent,
+
+#numbererOverlay.smartphones-sold2,
+#numbererOverlay.smartphones-sold,
+
+#numbererOverlay.instagram-photos2,
+#numbererOverlay.instagram-photos,
+
+#numbererOverlay.tumblr-posts2,
+#numbererOverlay.tumblr-posts,
+
+#numbererOverlay.skype-calls2,
+#numbererOverlay.skype-calls,
+
+#numbererOverlay.internet-traffic2,
+#numbererOverlay.internet-traffic,
+
+#numbererOverlay.youtube-videos2,
+#numbererOverlay.youtube-videos,
+
+#numbererOverlay.computers-sold2,
+#numbererOverlay.computers-sold,
+
+#numbererOverlay.tablets-sold2,
+#numbererOverlay.tablets-sold,
+
+#numbererOverlay.websites-total2,
+#numbererOverlay.websites-total,
+
+#numbererOverlay.websites-hacked2,
+#numbererOverlay.websites-hacked,
+
+#numbererOverlay.blog-posts2,
+#numbererOverlay.blog-posts,
+
+#numbererOverlay.facebook-users2,
+#numbererOverlay.facebook-users,
+
+#numbererOverlay.google-users2,
+#numbererOverlay.google-users,
+
+#numbererOverlay.twitter-users2,
+#numbererOverlay.twitter-users,
+
+#numbererOverlay.pinterest-users2,
+#numbererOverlay.pinterest-users,
+
+#numbererOverlay.power-internet2,
+#numbererOverlay.power-internet,
+
+#numbererOverlay.smartphones-sold2,
+#numbererOverlay.smartphones-sold,
+
+#numbererOverlay.co2-internet2,
+#numbererOverlay.co2-internet
+
+{
+	position: absolute;
+	display: none;
+	background-color: white;
+	padding: 0 4px;
+	border:1px solid #666;
+	left: 0;
+	top: 0;
+	color: #333;
+	font-weight: normal;
+	font-size: 12px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
