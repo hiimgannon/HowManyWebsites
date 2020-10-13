@@ -1,0 +1,24 @@
+/* Copyright InternetLiveStats.com. All Rights Reserved. Copy, modification, or use is strictly prohibited */
+var instagram_updater = RTS_divSizeUpdater_start("instagram_photos_second", "instagram-photos", "instagram-photos2", 50, 26, 26, "https://www.internetlivestats.com/allicons/instagram26.gif", 100, 100, 0, true);
+var tumblr_updater = RTS_divSizeUpdater_start("tumblr_posts_second", "tumblr-posts", "tumblr-posts2", 50, 26, 26, "https://www.internetlivestats.com/allicons/tumblr26x26.gif", 100, 100, 0, true);
+var skype_updater = RTS_divSizeUpdater_start("skype_calls_second", "skype-calls", "skype-calls2", 50, 26, 26, "https://www.internetlivestats.com/allicons/skype26.gif", 100, 100, 0, true);
+var tweets_updater = RTS_divSizeUpdater_start("tweets_second", "tweets-sent", "tweets-sent2", 50, 26, 26, "https://www.internetlivestats.com/allicons/tweet26.png", 100, 100, 0, true);
+var traffic_updater = RTS_divSizeUpdater_start("internet_traffic_second", "internet-traffic", "internet-traffic2", 50, 26, 26, "https://www.internetlivestats.com/allicons/traffic26b.gif", 100, 100, 0, true);
+var googlesearches_updater = RTS_divSizeUpdater_start("google_searches_second", "google-searches", "google-searches2", 59, 22, 27, "https://www.internetlivestats.com/allicons/google22x27.gif", 100, 100, 0, true);
+var youtube_updater = RTS_divSizeUpdater_start("youtube_videos_second", "youtube-videos", "youtube-videos2", 50, 26, 23, "https://www.internetlivestats.com/allicons/youtube26x23.gif", 100, 100, 0, true);
+var email_updater = RTS_divSizeUpdater_start("em_second", "em-sent", "em-sent2", 50, 26, 24, "https://www.internetlivestats.com/allicons/emailmix.gif", 100, 100, 0, true);
+var internetusers_updater = RTS_divSizeUpdater_start("internet_users", "internet-users", "internet-users2", 50000, 21, 21, "https://www.internetlivestats.com/allicons/user21.gif", 100, 100, 0, true);
+var internetusersregion_updater = RTS_divSizeUpdater_start("internet_users", "internet-users-region", "internet-users-region2", 50000, 21, 21, "https://www.internetlivestats.com/allicons/internet-users.gif", 100, 100, 0, true);
+var smartphones_updater = RTS_divSizeUpdater_start("smartphones_sold_today", "smartphones-sold", "smartphones-sold2", 60, 22, 26, "https://www.internetlivestats.com/allicons/smartphone22x26.gif", 100, 100, 0, true);
+var computersold_updater = RTS_divSizeUpdater_start("computers_sold_today", "computers-sold", "computers-sold2", 30, 42, 32, "https://www.internetlivestats.com/allicons/pc42x32.png", 100, 100, 0, true);
+var tabletsold_updater = RTS_divSizeUpdater_start("tablets_sold_today", "tablets-sold", "tablets-sold2", 35, 38, 25, "https://www.internetlivestats.com/allicons/tablet38x25.png", 100, 100, 0, true);
+var websites_updater = RTS_divSizeUpdater_start("websites", "websites-total", "websites-total2", 25000, 24, 24, "https://www.internetlivestats.com/allicons/website24x24.gif", 100, 100, 0, true);
+var websiteshacked_updater = RTS_divSizeUpdater_start("websites_hacked_today", "websites-hacked", "websites-hacked2", 50, 26, 26, "https://www.internetlivestats.com/allicons/hacked26x26.gif", 100, 100, 0, true);
+var blogposts_updater = RTS_divSizeUpdater_start("blog_posts_today", "blog-posts", "blog-posts2", 60, 21, 21, "https://www.internetlivestats.com/allicons/blog21x21a.gif", 100, 100, 0, true);
+var facebookusers_updater = RTS_divSizeUpdater_start("facebook_users", "facebook-users", "facebook-users2", 25000, 21, 21, "https://www.internetlivestats.com/allicons/fb21x21.gif", 100, 100, 0, true);
+var googleusers_updater = RTS_divSizeUpdater_start("google_users", "google-users", "google-users2", 10000, 21, 21, "https://www.internetlivestats.com/allicons/gplus21x21.gif", 100, 100, 0, true);
+var twitterusers_updater = RTS_divSizeUpdater_start("twitter_users", "twitter-users", "twitter-users2", 10000, 21, 21, "https://www.internetlivestats.com/allicons/twitter21x21.gif", 100, 100, 0, true);
+var pinterestusers_updater = RTS_divSizeUpdater_start("pinterest_users", "pinterest-users", "pinterest-users2", 10000, 21, 21, "https://www.internetlivestats.com/allicons/pinterest21x21.gif", 100, 100, 0, true);
+var powerinternet_updater = RTS_divSizeUpdater_start("power_internet_today", "power-internet", "power-internet2", 100, 26, 26, "https://www.internetlivestats.com/allicons/power26x26.gif", 100, 100, 0, true);
+var co2internet_updater = RTS_divSizeUpdater_start("co2_internet_today", "co2-internet", "co2-internet2", 50, 28, 20, "https://www.internetlivestats.com/allicons/co2-28x20.gif", 100, 100, 0, true);
+/* Copyright InternetLiveStats.com. All Rights Reserved */
